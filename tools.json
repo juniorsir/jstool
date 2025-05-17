@@ -1,15 +1,25 @@
 {
-  "notice": "New update for auto-print available!",
+  "notice": "New tools added! Try 'image-compressor' and 'pdf-merger'.",
   "tools": [
     {
-      "name": "auto-print",
-      "description": "Automatically print camera photos.",
-      "install": "apt install auto-print"
+      "name": "image-compressor",
+      "description": "Compress images to reduce size without losing quality.",
+      "install": "apt install image-compressor"
     },
     {
-      "name": "img-resizer",
-      "description": "Resize images in bulk.",
-      "install": "apt install img-resizer"
+      "name": "pdf-merger",
+      "description": "Merge multiple PDF files into one.",
+      "install": "apt install pdf-merger"
+    },
+    {
+      "name": "network-scanner",
+      "description": "Scan your local network for connected devices.",
+      "install": "apt install network-scanner"
+    },
+    {
+      "name": "auto-print",
+      "description": "Auto-detect and print images to network printer.",
+      "install": "apt install auto-print"
     }
   ]
 }
