@@ -1,0 +1,22 @@
+Package: JS-Tool
+Version: 1.0
+Architecture: all
+Maintainer: JuniorSir
+Filename: ./jstool.deb
+Size: 1432
+MD5sum: fbe0bf8da04935ff78db632c53598820
+SHA1: e4c181cece017cd5905b3f8323d9acbd2003bbed
+SHA256: bbad27ad90c7a9aaf6b176178adc271c16e535c07fa3a2b1ea026723fb563465
+Description: This tool will show my all tools available on github
+
+Package: hello-termux
+Version: 1.0
+Architecture: all
+Maintainer: Papa
+Filename: ./hello-termux.deb
+Size: 2376
+MD5sum: 8a9a3922497fa513366831299f5855d8
+SHA1: 650f44c1f785ab9b46fa7494698da473e39fff16
+SHA256: d406c99f09667370b8ce499c0ec95b75740c343b0512bf764a71d8758dad64a9
+Description: A simple hello tool for Termux
+
