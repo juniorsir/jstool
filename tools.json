@@ -1,1 +1,15 @@
-
+{
+  "notice": "New update for auto-print available!",
+  "tools": [
+    {
+      "name": "auto-print",
+      "description": "Automatically print camera photos.",
+      "install": "apt install auto-print"
+    },
+    {
+      "name": "img-resizer",
+      "description": "Resize images in bulk.",
+      "install": "apt install img-resizer"
+    }
+  ]
+}
