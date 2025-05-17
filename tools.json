@@ -21,5 +21,10 @@
       "description": "Auto-detect and print images to network printer.",
       "install": "apt install auto-print"
     }
+    {
+      "name": "auto-print1",
+      "description": "Auto-detect and print images to network printer.",
+      "install": "apt install auto-print"
+    }
   ]
 }
